@@ -1,0 +1,13 @@
+.home-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-box {
+    padding: 0px;
+    border-radius: 0px;
+    box-shadow: 0 10px 10px rgba(112, 112, 112, 0.801), 0 10px 10px rgba(0, 0, 0, 0.22);
+    width: 800px;
+}
